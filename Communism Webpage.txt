@@ -1,0 +1,61 @@
+<div>
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+}
+</style>
+  <h1>Communism in the 21st Century</h1>
+</div>
+<p><img src="http://feeltheliberty.com/wp-content/uploads/2017/09/1312059340-1180x650.png" alt="Communism" width="620" height="300" />&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<th>Current Communist Countries</th>
+<th>Year Communism Was Established</th>
+</tr>
+<tr>
+<td>People's Republic of China</td>
+<td>1949-Present</td>
+</tr>
+<tr>
+<td>Democratic People's Republic of Korea</td>
+<td>1946-Present</td>
+</tr>
+<tr>
+<td>Socialist Republic of Vietnam</td>
+<td>1976-Present</td>
+</tr>
+<tr>
+<td>Lao People's Democratic Republic</td>
+<td>1954-Present</td>
+</tr>
+<tr>
+<td>Republic of Cuba</td>
+<td>1965-Present</td>
+</tr>
+</tbody>
+</table>
+<p>With only five communist countries remaining in the world today, the current leaders of these countries have taken control of the economy and executive powers within their respective countries. These "communist" countries have been conquered by malicious generals who have forcefully assumed power, converting these countries into what is known as a command economy.</p>
+<p><strong>Facts About Communist Countries</strong></p>
+<ul>
+<ul>
+<li>Karl Marx is believed to be the founder of modern communism, and his theories have also been referred to as Marxism</li>
+<li>Within Karl Marx ideas about communism he believed these practices would remove social classes, money, and the state</li>
+<li>For much of the 20th century, in fact, about one-third of the world&rsquo;s population lived under communist regimes</li>
+<li>Communism has failed in practice because the governments have forgotten about the democratic aspect of the ideology which results in the splitting of social classes - which was communism wanted to abolish in the first place</li>
+<li>Communism in theory is a type of society where people are all equal. In reality it became a type of dictatorship as the fundamental basics of communism and removing social class became lost</li>
+</ul>
+</ul>
+<p>Citations:</p>
+<ul>
+<ul>
+<li>&ldquo;Communism.&rdquo; Wikipedia, Wikimedia Foundation, 15 Dec. 2017, en.wikipedia.org/wiki/Communism.</li>
+<li>&ldquo;Even by Its Own Standards, Communism Has Failed Miserably.&rdquo; Feel the Liberty, 4 Sept. 2017, feeltheliberty.com/even-standards-communism-failed-miserably./</li>
+<li>&ldquo;10 Reasons Why Communism Sucks.&rdquo; Listverse, 18 June 2014, listverse.com/2013/01/17/10-reasons-why-communism-sucks./</li>
+<li>http://feeltheliberty.com/wp-content/uploads/2017/09/1312059340-1180x650.png</li>
+</ul>
+</ul>
